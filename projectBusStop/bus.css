@@ -1,0 +1,19 @@
+html,body,#mapDiv {
+			padding: 0px;
+			margin: 0px;
+			height: 100%;
+			}
+				
+			#buttonPanel{ 
+			position: absolute;
+			left: 80px;
+			top: 20px;
+			
+			
+			} 
+			
+			.panelButton{ 
+			background:url(bussbild.png);
+			height: 110px;
+			width: 110px;
+			} 

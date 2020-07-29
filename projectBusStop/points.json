@@ -1,0 +1,1845 @@
+{
+	"status" : "OK",
+	"stations" : [
+	{
+	"location" : "7400210",
+	"x" : "17.151189",
+	"y" : "60.676245",
+    "name" : "Gävle Centralstation"
+	},
+	{
+	"location" : "7419659",
+	"x" : "17.152984",
+	"y" : "60.67541",
+    "name" : "Gävle Hamntorget"
+	},
+  
+	{
+	"location" : "7424916",
+	"x" : "17.153659",
+	"y" : "60.674057",
+    "name" : "Gävle Maxim"
+	},
+   
+	{
+	"location" : "7419436",
+	"x" : "17.146851",
+	"y" : "60.673138",
+    "name" : "Gävle Stadsbiblioteket"
+	},
+  
+	{
+	"location" : "7421809",
+	"x" : "17.144895",
+	"y" : "60.674504",
+    "name" : "Gävle Rådhuset"
+	},
+  
+	{
+	"location" : "7419629",
+	"x" : "17.153462",
+	"y" : "60.678098",
+    "name" : "Gävle Sofia Magdalena"
+	},
+	{
+	"location" : "7419570",
+	"x" : "17.157515",
+	"y" : "60.674377",
+    "name" : "Gävle Södra Fiskargatan"
+	},
+	{
+	"location" : "7419353",
+	"x" : "17.143939",
+	"y" : "60.677925",
+    "name" : "Gävle Läkarhuset"
+	},
+	{
+	"location" : "7419475",
+	"x" : "17.148217",
+	"y" : "60.670791",
+    "name" : "Gävle Södermalm"
+	},
+	{
+	"location" : "7421074",
+	"x" : "17.14189",
+	"y" : "60.677047",
+    "name" : "Gävle Vasaskolan"
+	},
+	{
+	"location" : "7419539",
+	"x" : "17.151338",
+	"y" : "60.679825",
+    "name" : "Gävle Öster"
+	},
+	{
+	"location" : "7419195",
+	"x" : "17.149094",
+	"y" : "60.669884",
+    "name" : "Gävle Brunnsgatan"
+	},
+	{
+	"location" : "7419628",
+	"x" : "17.156613",
+	"y" : "60.679054",
+    "name" : "Gävle Holmkanalen"
+	},
+	{
+	"location" : "7419418",
+	"x" : "17.145418",
+	"y" : "60.669472",
+    "name" : "Gävle Södra Slottsgatan"
+	},
+	{
+	"location" : "7419572",
+	"x" : "17.162434",
+	"y" : "60.673879",
+    "name" : "Gävle Steneberg"
+	},
+	{
+	"location" : "7419397",
+	"x" : "17.15068",
+	"y" : "60.668432",
+    "name" : "Gävle Polhemsskolan"
+	},
+	{
+	"location" : "7419322",
+	"x" : "17.136075",
+	"y" : "60.673605",
+    "name" : "Gävle Kvarnparken"
+	},
+	{
+	"location" : "7419376",
+	"x" : "17.137555",
+	"y" : "60.678437",
+    "name" : "Gävle Nynäshallen"
+	},
+	{
+	"location" : "7470393",
+	"x" : "17.161918",
+	"y" : "60.679",
+    "name" : "Gävle Gävle Strand"
+	},
+	{
+	"location" : "7419229",
+	"x" : "17.155621",
+	"y" : "60.668472",
+    "name" : "Gävle Fruns Hage"
+	},
+	{
+	"location" : "7419384",
+	"x" : "17.139074",
+	"y" : "60.679768",
+    "name" : "Gävle Norrtull"
+	},
+	{
+	"location" : "7419182",
+	"x" : "17.152899",
+	"y" : "60.682143",
+    "name" : "Gävle Beckasinvägen"
+	},
+	{
+	"location" : "7419448",
+	"x" : "17.162275",
+	"y" : "60.670111",
+    "name" : "Gävle Staffansplan"
+	},
+	{
+	"location" : "7419701",
+	"x" : "17.158177",
+	"y" : "60.668357",
+    "name" : "Gävle Staffansbron"
+	},
+	{
+	"location" : "7419543",
+	"x" : "17.165718",
+	"y" : "60.673666",
+    "name" : "Gävle Tredje Tvärgatan"
+	},
+	{
+	"location" : "7419259",
+	"x" : "17.140081",
+	"y" : "60.668718",
+    "name" : "Gävle Gustavsgatan"
+	},
+	{
+	"location" : "7419476",
+	"x" : "17.148224",
+	"y" : "60.666572",
+    "name" : "Gävle Södertull"
+	},
+	{
+	"location" : "7441089",
+	"x" : "17.152594",
+	"y" : "60.666079",
+    "name" : "Gävle Kaserngatan"
+	},
+	{
+	"location" : "7424583",
+	"x" : "17.131639",
+	"y" : "60.67697",
+    "name" : "Gävle Borgarskolan"
+	},
+	{
+	"location" : "7419312",
+	"x" : "17.132511",
+	"y" : "60.671486",
+    "name" : "Gävle Konserthuset"
+	},
+	{
+	"location" : "7419447",
+	"x" : "17.130457",
+	"y" : "60.674917",
+    "name" : "Gävle Stadsträdgården"
+	},
+	{
+	"location" : "7438539",
+	"x" : "17.168188",
+	"y" : "60.671487",
+    "name" : "Gävle Sjätte Tvärgatan"
+	},
+	{
+	"location" : "7419196",
+	"x" : "17.168184",
+	"y" : "60.671397",
+    "name" : "Gävle Brynäs Centrum"
+	},
+	{
+	"location" : "7419480",
+	"x" : "17.169944",
+	"y" : "60.674072",
+    "name" : "Gävle Tallgatan"
+	},
+	{
+	"location" : "7419208",
+	"x" : "17.135666",
+	"y" : "60.668133",
+    "name" : "Gävle Domargränd"
+	},
+	{
+	"location" : "7419361",
+	"x" : "17.137737",
+	"y" : "60.682833",
+    "name" : "Gävle Marielund"
+	},
+	{
+	"location" : "7419186",
+	"x" : "17.143601",
+	"y" : "60.665362",
+    "name" : "Gävle Björkegrenska"
+	},
+	{
+	"location" : "7432992",
+	"x" : "17.170667",
+	"y" : "60.678193",
+    "name" : "Gävle Limöbåten"
+	},
+	{
+	"location" : "7419546",
+	"x" : "17.171361",
+	"y" : "60.67298",
+    "name" : "Gävle Brynässkolan"
+	},
+	{
+	"location" : "7419438",
+	"x" : "17.15213",
+	"y" : "60.685652",
+    "name" : "Gävle Snäppvägen"
+	},
+	{
+	"location" : "7419212",
+	"x" : "17.128358",
+	"y" : "60.677271",
+    "name" : "Gävle Engelbrektsgatan"
+	},
+	{
+	"location" : "7419316",
+	"x" : "17.140832",
+	"y" : "60.664761",
+    "name" : "Gävle Kristinaplan"
+	},
+	{
+	"location" : "7419292",
+	"x" : "17.13836",
+	"y" : "60.684622",
+    "name" : "Gävle Joakims backe"
+	},
+	{
+	"location" : "7419516",
+	"x" : "17.173686",
+	"y" : "60.676008",
+    "name" : "Gävle Vegaplan"
+	},
+	{
+	"location" : "7419291",
+	"x" : "17.155414",
+	"y" : "60.663538",
+    "name" : "Gävle Engelska Skolan"
+	},
+	{
+	"location" : "7419338",
+	"x" : "17.131786",
+	"y" : "60.667184",
+    "name" : "Gävle Fjärran Höjder"
+	},
+	{
+	"location" : "7419423",
+	"x" : "17.126498",
+	"y" : "60.672084",
+    "name" : "Gävle Silvanum"
+	},
+	{
+	"location" : "7419525",
+	"x" : "17.125596",
+	"y" : "60.67685",
+    "name" : "Gävle Västertull"
+	},
+	{
+	"location" : "7419393",
+	"x" : "17.141496",
+	"y" : "60.663139",
+    "name" : "Gävle Parkvägen"
+	},
+	{
+	"location" : "7419190",
+	"x" : "17.12478",
+	"y" : "60.679281",
+    "name" : "Gävle Blåsåsen"
+	},
+	{
+	"location" : "7419504",
+	"x" : "17.145821",
+	"y" : "60.661569",
+    "name" : "Gävle Urbergsterrassen"
+	},
+	{
+	"location" : "7419295",
+	"x" : "17.12227",
+	"y" : "60.676075",
+    "name" : "Gävle Jungfrugatan"
+	},
+	{
+	"location" : "7410279",
+	"x" : "17.177428",
+	"y" : "60.677945",
+    "name" : "Gävle Gasklockorna"
+	},
+	{
+	"location" : "7419424",
+	"x" : "17.121886",
+	"y" : "60.67563",
+    "name" : "Gävle Sjukhus Västra väg"
+	},
+	{
+	"location" : "7419548",
+	"x" : "17.177328",
+	"y" : "60.671304",
+    "name" : "Gävle Eriksberg"
+	},
+	{
+	"location" : "7419261",
+	"x" : "17.17846",
+	"y" : "60.676408",
+    "name" : "Gävle Hammargatan"
+	},
+	{
+	"location" : "7419430",
+	"x" : "17.136874",
+	"y" : "60.661928",
+    "name" : "Gävle Skogmursvägen"
+	},
+	{
+	"location" : "7419441",
+	"x" : "17.121677",
+	"y" : "60.670515",
+    "name" : "Gävle Soldatkyrkan"
+	},
+	{
+	"location" : "7419431",
+	"x" : "17.159697",
+	"y" : "60.660981",
+    "name" : "Gävle Skolgången"
+	},
+	{
+	"location" : "7419463",
+	"x" : "17.154133",
+	"y" : "60.68976",
+    "name" : "Gävle Strömmavägen"
+	},
+	{
+	"location" : "7424585",
+	"x" : "17.120145",
+	"y" : "60.677801",
+    "name" : "Gävle Sjukhus"
+	},
+	{
+	"location" : "7419478",
+	"x" : "17.152701",
+	"y" : "60.659885",
+    "name" : "Gävle Sörby"
+	},
+	{
+	"location" : "7419494",
+	"x" : "17.149955",
+	"y" : "60.659823",
+    "name" : "Gävle Sörby Ängar"
+	},
+	{
+	"location" : "7419356",
+	"x" : "17.120006",
+	"y" : "60.678879",
+    "name" : "Gävle Sjukhus ingång 25"
+	},
+	{
+	"location" : "7419314",
+	"x" : "17.143747",
+	"y" : "60.660064",
+    "name" : "Gävle Korpvägen"
+	},
+	{
+	"location" : "7419407",
+	"x" : "17.125495",
+	"y" : "60.665451",
+    "name" : "Gävle Runebergsvägen"
+	},
+	{
+	"location" : "7419227",
+	"x" : "17.127445",
+	"y" : "60.686256",
+    "name" : "Gävle Estraden"
+	},
+	{
+	"location" : "7419544",
+	"x" : "17.180959",
+	"y" : "60.670638",
+    "name" : "Gävle Atlasgatan"
+	},
+	{
+	"location" : "7419435",
+	"x" : "17.124078",
+	"y" : "60.684494",
+    "name" : "Gävle Skårängsvägen"
+	},
+	{
+	"location" : "7419515",
+	"x" : "17.148333",
+	"y" : "60.691165",
+    "name" : "Gävle Vattenverket"
+	},
+	{
+	"location" : "7419286",
+	"x" : "17.118601",
+	"y" : "60.680329",
+    "name" : "Gävle Sjukhus ingång 31"
+	},
+	{
+	"location" : "7419279",
+	"x" : "17.118697",
+	"y" : "60.669198",
+    "name" : "Gävle Högskolan"
+	},
+	{
+	"location" : "7419692",
+	"x" : "17.155577",
+	"y" : "60.658689",
+    "name" : "Gävle Spängersleden"
+	},
+	{
+	"location" : "7419644",
+	"x" : "17.116691",
+	"y" : "60.678373",
+    "name" : "Gävle Sjukhus ingång 6"
+	},
+	{
+	"location" : "7419268",
+	"x" : "17.16311",
+	"y" : "60.65951",
+    "name" : "Gävle Hemsta"
+	},
+	{
+	"location" : "7419357",
+	"x" : "17.123253",
+	"y" : "60.664307",
+    "name" : "Gävle Löjtnantsvägen"
+	},
+	{
+	"location" : "7419367",
+	"x" : "17.126597",
+	"y" : "60.68788",
+    "name" : "Gävle Moränvägen"
+	},
+	{
+	"location" : "7419242",
+	"x" : "17.134579",
+	"y" : "60.690584",
+    "name" : "Gävle Läkerol arena"
+	},
+	{
+	"location" : "7419172",
+	"x" : "17.134569",
+	"y" : "60.659258",
+    "name" : "Gävle Gefle Forum"
+	},
+	{
+	"location" : "7419304",
+	"x" : "17.114373",
+	"y" : "60.675344",
+    "name" : "Gävle Karlsborg"
+	},
+	{
+	"location" : "7419491",
+	"x" : "17.1193",
+	"y" : "60.684003",
+    "name" : "Gävle Torpstigen"
+	},
+	{
+	"location" : "7419699",
+	"x" : "17.184726",
+	"y" : "60.668894",
+    "name" : "Gävle Fjällbackens köpcentrum"
+	},
+	{
+	"location" : "7419553",
+	"x" : "17.186266",
+	"y" : "60.670673",
+    "name" : "Gävle Herrgårdshagen"
+	},
+	{
+	"location" : "7419482",
+	"x" : "17.148994",
+	"y" : "60.693851",
+    "name" : "Gävle Tallåsvägen"
+	},
+	{
+	"location" : "7419486",
+	"x" : "17.11428",
+	"y" : "60.682077",
+    "name" : "Gävle Tolvfors"
+	},
+	{
+	"location" : "7412908",
+	"x" : "17.177465",
+	"y" : "60.661608",
+    "name" : "Gävle Järnvägsmuseét"
+	},
+	{
+	"location" : "7419287",
+	"x" : "17.120255",
+	"y" : "60.662541",
+    "name" : "Gävle Ingebovägen"
+	},
+	{
+	"location" : "7419243",
+	"x" : "17.125221",
+	"y" : "60.690048",
+    "name" : "Gävle Campus Sätra"
+	},
+	{
+	"location" : "7419414",
+	"x" : "17.131212",
+	"y" : "60.657676",
+    "name" : "Gävle Rönnvägen"
+	},
+	{
+	"location" : "7419454",
+	"x" : "17.156711",
+	"y" : "60.694492",
+    "name" : "Gävle Stigsgård"
+	},
+	{
+	"location" : "7432993",
+	"x" : "17.14866",
+	"y" : "60.655078",
+    "name" : "Gävle Hagelgatan"
+	},
+	{
+	"location" : "7419340",
+	"x" : "17.12722",
+	"y" : "60.658433",
+    "name" : "Gävle Lokattvägen"
+	},
+	{
+	"location" : "7419174",
+	"x" : "17.124145",
+	"y" : "60.659271",
+    "name" : "Gävle Almvägen"
+	},
+	{
+	"location" : "7419318",
+	"x" : "17.166824",
+	"y" : "60.656511",
+    "name" : "Gävle Kryddstigen"
+	},
+	{
+	"location" : "7419211",
+	"x" : "17.121081",
+	"y" : "60.660378",
+    "name" : "Gävle Ekvägen"
+	},
+	{
+	"location" : "7419258",
+	"x" : "17.108297",
+	"y" : "60.674416",
+    "name" : "Gävle Gustavsbro"
+	},
+	{
+	"location" : "7419321",
+	"x" : "17.110252",
+	"y" : "60.668473",
+    "name" : "Gävle Stallplan"
+	},
+	{
+	"location" : "7419455",
+	"x" : "17.148699",
+	"y" : "60.69556",
+    "name" : "Gävle Stigslund"
+	},
+	{
+	"location" : "7419660",
+	"x" : "17.108235",
+	"y" : "60.672891",
+    "name" : "Gävle Teknikparken"
+	},
+	{
+	"location" : "7419499",
+	"x" : "17.111978",
+	"y" : "60.683984",
+    "name" : "Gävle Tygelvägen"
+	},
+	{
+	"location" : "7419249",
+	"x" : "17.177902",
+	"y" : "60.659001",
+    "name" : "Gävle John Bauer"
+	},
+	{
+	"location" : "7419253",
+	"x" : "17.123117",
+	"y" : "60.692313",
+    "name" : "Gävle Gråstensvägen"
+	},
+	{
+	"location" : "7419390",
+	"x" : "17.161911",
+	"y" : "60.696234",
+    "name" : "Gävle Nålgatan"
+	},
+	{
+	"location" : "7419232",
+	"x" : "17.146014",
+	"y" : "60.697023",
+    "name" : "Gävle Furumovägen"
+	},
+	{
+	"location" : "7419359",
+	"x" : "17.105979",
+	"y" : "60.680452",
+    "name" : "Gävle Lövudden"
+	},
+	{
+	"location" : "7463719",
+	"x" : "17.186427",
+	"y" : "60.661606",
+    "name" : "Gävle Blomsterängsvägen"
+	},
+	{
+	"location" : "7463762",
+	"x" : "17.189635",
+	"y" : "60.663907",
+    "name" : "Gävle Syrénvägen"
+	},
+	{
+	"location" : "7419116",
+	"x" : "17.151706",
+	"y" : "60.697414",
+    "name" : "Gävle Stigslunds skola"
+	},
+	{
+	"location" : "7419401",
+	"x" : "17.130893",
+	"y" : "60.654358",
+    "name" : "Gävle Ramna"
+	},
+	{
+	"location" : "7410562",
+	"x" : "17.170214",
+	"y" : "60.654501",
+    "name" : "Gävle Hemlingby"
+	},
+	{
+	"location" : "7418581",
+	"x" : "17.103143",
+	"y" : "60.673658",
+    "name" : "Gävle Skogskyrkogården"
+	},
+	{
+	"location" : "7419235",
+	"x" : "17.107663",
+	"y" : "60.685911",
+    "name" : "Gävle Fältspatvägen"
+	},
+	{
+	"location" : "7419458",
+	"x" : "17.152342",
+	"y" : "60.651271",
+    "name" : "Gävle Stormgatan"
+	},
+	{
+	"location" : "7419382",
+	"x" : "17.164358",
+	"y" : "60.697825",
+    "name" : "Gävle Norrlandsgatan"
+	},
+	{
+	"location" : "7419331",
+	"x" : "17.101893",
+	"y" : "60.678966",
+    "name" : "Gävle Lexe"
+	},
+	{
+	"location" : "7419474",
+	"x" : "17.116536",
+	"y" : "60.692557",
+    "name" : "Gävle Sätra Centrum"
+	},
+	{
+	"location" : "7419571",
+	"x" : "17.199292",
+	"y" : "60.671526",
+    "name" : "Gävle Sjöäng"
+	},
+	{
+	"location" : "7419177",
+	"x" : "17.137351",
+	"y" : "60.651332",
+    "name" : "Gävle Andersberg Centrum"
+	},
+	{
+	"location" : "7419386",
+	"x" : "17.149234",
+	"y" : "60.699593",
+    "name" : "Gävle Nybyggarvägen"
+	},
+	{
+	"location" : "7419521",
+	"x" : "17.134065",
+	"y" : "60.651454",
+    "name" : "Gävle Vinddraget"
+	},
+	{
+	"location" : "7419398",
+	"x" : "17.107607",
+	"y" : "60.689053",
+    "name" : "Gävle Porfyrvägen"
+	},
+	{
+	"location" : "7419343",
+	"x" : "17.148444",
+	"y" : "60.649874",
+    "name" : "Gävle Lugna gatan"
+	},
+	{
+	"location" : "7419240",
+	"x" : "17.167145",
+	"y" : "60.698784",
+    "name" : "Gävle Gammelstigen"
+	},
+	{
+	"location" : "7419176",
+	"x" : "17.130592",
+	"y" : "60.651488",
+    "name" : "Gävle Höjersdal"
+	},
+	{
+	"location" : "7418554",
+	"x" : "17.152383",
+	"y" : "60.700459",
+    "name" : "Gävle Forsbyvägen"
+	},
+	{
+	"location" : "7419503",
+	"x" : "17.110461",
+	"y" : "60.691719",
+    "name" : "Gävle Ulvsätersvägen"
+	},
+	{
+	"location" : "7419301",
+	"x" : "17.197508",
+	"y" : "60.664094",
+    "name" : "Gävle Järvstaängarna"
+	},
+	{
+	"location" : "7419502",
+	"x" : "17.119424",
+	"y" : "60.696029",
+    "name" : "Gävle Ulvsmygen"
+	},
+	{
+	"location" : "7419462",
+	"x" : "17.163373",
+	"y" : "60.700528",
+    "name" : "Gävle Strömgatan"
+	},
+	{
+	"location" : "7419691",
+	"x" : "17.152066",
+	"y" : "60.701629",
+    "name" : "Gävle Triangeln"
+	},
+	{
+	"location" : "7435323",
+	"x" : "17.170302",
+	"y" : "60.699829",
+    "name" : "Gävle Bönakrysset"
+	},
+	{
+	"location" : "7419488",
+	"x" : "17.095627",
+	"y" : "60.67786",
+    "name" : "Gävle Tomtnäsvägen"
+	},
+	{
+	"location" : "7419560",
+	"x" : "17.204639",
+	"y" : "60.672458",
+    "name" : "Gävle Klippan"
+	},
+	{
+	"location" : "7419412",
+	"x" : "17.105157",
+	"y" : "60.69186",
+    "name" : "Gävle Rävpasset"
+	},
+	{
+	"location" : "7419519",
+	"x" : "17.180327",
+	"y" : "60.651526",
+    "name" : "Gävle Vimans Backe"
+	},
+	{
+	"location" : "7419206",
+	"x" : "17.130657",
+	"y" : "60.648615",
+    "name" : "Gävle Dimgatan"
+	},
+	{
+	"location" : "7419244",
+	"x" : "17.178524",
+	"y" : "60.699386",
+    "name" : "Gävle Golfbanan"
+	},
+	{
+	"location" : "7419288",
+	"x" : "17.161813",
+	"y" : "60.702608",
+    "name" : "Gävle Iskällargatan"
+	},
+	{
+	"location" : "7419193",
+	"x" : "17.143368",
+	"y" : "60.646514",
+    "name" : "Gävle Brisgatan"
+	},
+	{
+	"location" : "7419616",
+	"x" : "17.158552",
+	"y" : "60.703449",
+    "name" : "Gävle Strömsbro skola"
+	},
+	{
+	"location" : "7419678",
+	"x" : "17.14847",
+	"y" : "60.646104",
+    "name" : "Gävle Hemlingby köpcentrum"
+	},
+	{
+	"location" : "7419434",
+	"x" : "17.114387",
+	"y" : "60.698233",
+    "name" : "Gävle Skyttestigen"
+	},
+	{
+	"location" : "7419234",
+	"x" : "17.090487",
+	"y" : "60.67746",
+    "name" : "Gävle Fyrbovägen"
+	},
+	{
+	"location" : "7419237",
+	"x" : "17.160603",
+	"y" : "60.704326",
+    "name" : "Gävle Gamla Bönavägen"
+	},
+	{
+	"location" : "7419144",
+	"x" : "17.089337",
+	"y" : "60.671547",
+    "name" : "Gävle Scandic"
+	},
+	{
+	"location" : "7419282",
+	"x" : "17.092843",
+	"y" : "60.686055",
+    "name" : "Gävle Igeltjärn"
+	},
+	{
+	"location" : "7419564",
+	"x" : "17.211437",
+	"y" : "60.673104",
+    "name" : "Gävle Källö"
+	},
+	{
+	"location" : "7423144",
+	"x" : "17.118693",
+	"y" : "60.648877",
+    "name" : "Gävle Gävlebro E4"
+	},
+	{
+	"location" : "7419404",
+	"x" : "17.1351",
+	"y" : "60.645519",
+    "name" : "Gävle Rimfrostgatan"
+	},
+	{
+	"location" : "7418557",
+	"x" : "17.128193",
+	"y" : "60.646485",
+    "name" : "Gävle Gävle Bro"
+	},
+	{
+	"location" : "7419518",
+	"x" : "17.208883",
+	"y" : "60.664873",
+    "name" : "Gävle Vikingavägen"
+	},
+	{
+	"location" : "7419289",
+	"x" : "17.110934",
+	"y" : "60.698895",
+    "name" : "Gävle Jaktstigen"
+	},
+	{
+	"location" : "7435462",
+	"x" : "17.144562",
+	"y" : "60.644438",
+    "name" : "Gävle Biltema"
+	},
+	{
+	"location" : "7419662",
+	"x" : "17.149122",
+	"y" : "60.705698",
+    "name" : "Gävle Stigshöjden"
+	},
+	{
+	"location" : "7419450",
+	"x" : "17.092566",
+	"y" : "60.688301",
+    "name" : "Gävle Stenbärsvägen"
+	},
+	{
+	"location" : "7419534",
+	"x" : "17.098444",
+	"y" : "60.693361",
+    "name" : "Gävle Älgpasset"
+	},
+	{
+	"location" : "7419330",
+	"x" : "17.194378",
+	"y" : "60.697607",
+    "name" : "Gävle Lervik"
+	},
+	{
+	"location" : "7419293",
+	"x" : "17.189716",
+	"y" : "60.6999",
+    "name" : "Gävle Jonstorp"
+	},
+	{
+	"location" : "7419311",
+	"x" : "17.209906",
+	"y" : "60.663157",
+    "name" : "Gävle Kokstensvägen"
+	},
+	{
+	"location" : "7419567",
+	"x" : "17.214555",
+	"y" : "60.67747",
+    "name" : "Gävle Nygårdarna"
+	},
+	{
+	"location" : "7419527",
+	"x" : "17.084609",
+	"y" : "60.676888",
+    "name" : "Gävle Vätterosvägen"
+	},
+	{
+	"location" : "7419368",
+	"x" : "17.215",
+	"y" : "60.670913",
+    "name" : "Gävle Myrbacka"
+	},
+	{
+	"location" : "7419365",
+	"x" : "17.093424",
+	"y" : "60.691434",
+    "name" : "Gävle Mjölonvägen"
+	},
+	{
+	"location" : "7419265",
+	"x" : "17.216508",
+	"y" : "60.676103",
+    "name" : "Gävle Bomhus centrum"
+	},
+	{
+	"location" : "7419299",
+	"x" : "17.191204",
+	"y" : "60.649349",
+    "name" : "Gävle Järvstakroken"
+	},
+	{
+	"location" : "7419466",
+	"x" : "17.16146",
+	"y" : "60.707279",
+    "name" : "Gävle Stålbogatan"
+	},
+	{
+	"location" : "7419433",
+	"x" : "17.104718",
+	"y" : "60.699134",
+    "name" : "Gävle Skvattramsvägen"
+	},
+	{
+	"location" : "7419549",
+	"x" : "17.216458",
+	"y" : "60.679155",
+    "name" : "Gävle Fliskär"
+	},
+	{
+	"location" : "7419349",
+	"x" : "17.215805",
+	"y" : "60.668391",
+    "name" : "Gävle Långbacka"
+	},
+	{
+	"location" : "7419131",
+	"x" : "17.083188",
+	"y" : "60.668734",
+    "name" : "Gävle Hjälpmedel SAM"
+	},
+	{
+	"location" : "7419562",
+	"x" : "17.218075",
+	"y" : "60.674291",
+    "name" : "Gävle Kristinelund"
+	},
+	{
+	"location" : "7445840",
+	"x" : "17.20131",
+	"y" : "60.696997",
+    "name" : "Gävle Hamn"
+	},
+	{
+	"location" : "7419535",
+	"x" : "17.098997",
+	"y" : "60.698023",
+    "name" : "Gävle Ängsullsvägen"
+	},
+	{
+	"location" : "7419498",
+	"x" : "17.096187",
+	"y" : "60.696434",
+    "name" : "Gävle Tuvstarrvägen"
+	},
+	{
+	"location" : "7463714",
+	"x" : "17.145147",
+	"y" : "60.640931",
+    "name" : "Gävle Geodetgatan"
+	},
+	{
+	"location" : "7419209",
+	"x" : "17.215192",
+	"y" : "60.662742",
+    "name" : "Gävle Domarringen"
+	},
+	{
+	"location" : "7419317",
+	"x" : "17.093029",
+	"y" : "60.695298",
+    "name" : "Gävle Krusbärsvägen"
+	},
+	{
+	"location" : "7410561",
+	"x" : "17.197608",
+	"y" : "60.649462",
+    "name" : "Gävle Järvsta"
+	},
+	{
+	"location" : "7419449",
+	"x" : "17.079455",
+	"y" : "60.676129",
+    "name" : "Gävle Stenbäck"
+	},
+	{
+	"location" : "7419563",
+	"x" : "17.223061",
+	"y" : "60.675316",
+    "name" : "Gävle Källan"
+	},
+	{
+	"location" : "7419533",
+	"x" : "17.146413",
+	"y" : "60.711021",
+    "name" : "Forsby Åvägen"
+	},
+	{
+	"location" : "7419160",
+	"x" : "17.078021",
+	"y" : "60.667616",
+    "name" : "Gävle Utfarten"
+	},
+	{
+	"location" : "7419540",
+	"x" : "17.201142",
+	"y" : "60.701576",
+    "name" : "Gävle Östhagen"
+	},
+	{
+	"location" : "7419245",
+	"x" : "17.075368",
+	"y" : "60.674571",
+    "name" : "Gävle Grankottsvägen"
+	},
+	{
+	"location" : "7419520",
+	"x" : "17.090743",
+	"y" : "60.697654",
+    "name" : "Gävle Vinbärsvägen"
+	},
+	{
+	"location" : "7457339",
+	"x" : "17.121731",
+	"y" : "60.640445",
+    "name" : "Lapphällan"
+	},
+	{
+	"location" : "7419194",
+	"x" : "17.144997",
+	"y" : "60.712202",
+    "name" : "Forsby Bromsvägen"
+	},
+	{
+	"location" : "7419396",
+	"x" : "17.073521",
+	"y" : "60.674121",
+    "name" : "Gävle Pliggvägen"
+	},
+	{
+	"location" : "7419561",
+	"x" : "17.225755",
+	"y" : "60.682468",
+    "name" : "Gävle Kontorsvägen"
+	},
+	{
+	"location" : "7417249",
+	"x" : "17.072842",
+	"y" : "60.670807",
+    "name" : "Gävle Hagaström"
+	},
+	{
+	"location" : "7419512",
+	"x" : "17.165158",
+	"y" : "60.712448",
+    "name" : "Hille Varva Backe"
+	},
+	{
+	"location" : "7418579",
+	"x" : "17.073949",
+	"y" : "60.666398",
+    "name" : "Valbo kyrkogård"
+	},
+	{
+	"location" : "7419189",
+	"x" : "17.224154",
+	"y" : "60.662738",
+    "name" : "Gävle Vikingaskolan"
+	},
+	{
+	"location" : "7463770",
+	"x" : "17.131666",
+	"y" : "60.637565",
+    "name" : "Gävle Ersbo"
+	},
+	{
+	"location" : "7419554",
+	"x" : "17.229438",
+	"y" : "60.67471",
+    "name" : "Gävle Holmsund"
+	},
+	{
+	"location" : "7418553",
+	"x" : "17.142871",
+	"y" : "60.713929",
+    "name" : "Forsby"
+	},
+	{
+	"location" : "7419335",
+	"x" : "17.208651",
+	"y" : "60.701588",
+    "name" : "Norrlandet Lindesberg"
+	},
+	{
+	"location" : "7419281",
+	"x" : "17.22882",
+	"y" : "60.664842",
+    "name" : "Gävle Hövdingavägen"
+	},
+	{
+	"location" : "7419210",
+	"x" : "17.068945",
+	"y" : "60.669407",
+    "name" : "Gävle Duro"
+	},
+	{
+	"location" : "7419188",
+	"x" : "17.227994",
+	"y" : "60.662697",
+    "name" : "Gävle Björsjö"
+	},
+	{
+	"location" : "7419485",
+	"x" : "17.229976",
+	"y" : "60.666177",
+    "name" : "Gävle Tjärdalsgatan"
+	},
+	{
+	"location" : "7419260",
+	"x" : "17.067812",
+	"y" : "60.673188",
+    "name" : "Gävle Hagaström skola"
+	},
+	{
+	"location" : "7411728",
+	"x" : "17.069504",
+	"y" : "60.665004",
+    "name" : "Valbo kyrka"
+	},
+	{
+	"location" : "7419400",
+	"x" : "17.167149",
+	"y" : "60.716198",
+    "name" : "Hille Prästvägen"
+	},
+	{
+	"location" : "7419323",
+	"x" : "17.138591",
+	"y" : "60.716754",
+    "name" : "Forsby Kvarnstensvändan"
+	},
+	{
+	"location" : "7419552",
+	"x" : "17.234062",
+	"y" : "60.684085",
+    "name" : "Gävle Granudden"
+	},
+	{
+	"location" : "7419320",
+	"x" : "17.215646",
+	"y" : "60.702412",
+    "name" : "Norrlandet Kullsand"
+	},
+	{
+	"location" : "7419181",
+	"x" : "17.063032",
+	"y" : "60.672604",
+    "name" : "Gävle Basvägen"
+	},
+	{
+	"location" : "7419555",
+	"x" : "17.237335",
+	"y" : "60.675344",
+    "name" : "Gävle Högsta"
+	},
+	{
+	"location" : "7419147",
+	"x" : "17.12252",
+	"y" : "60.632898",
+    "name" : "Skogsmur"
+	},
+	{
+	"location" : "7419326",
+	"x" : "17.219708",
+	"y" : "60.703177",
+    "name" : "Norrlandet Kvistrum"
+	},
+	{
+	"location" : "7419391",
+	"x" : "17.061332",
+	"y" : "60.666517",
+    "name" : "Gävle Närbogården"
+	},
+	{
+	"location" : "7419550",
+	"x" : "17.2387",
+	"y" : "60.685472",
+    "name" : "Gävle Föreningshuset"
+	},
+	{
+	"location" : "7419432",
+	"x" : "17.058943",
+	"y" : "60.670937",
+    "name" : "Gävle Skuggan"
+	},
+	{
+	"location" : "7419569",
+	"x" : "17.242456",
+	"y" : "60.675289",
+    "name" : "Gävle Nyvallstigen"
+	},
+	{
+	"location" : "7419493",
+	"x" : "17.240696",
+	"y" : "60.664536",
+    "name" : "Gävle Trumslagarvägen"
+	},
+	{
+	"location" : "7419161",
+	"x" : "17.059125",
+	"y" : "60.661511",
+    "name" : "Valbo Vallrundan"
+	},
+	{
+	"location" : "7419492",
+	"x" : "17.242246",
+	"y" : "60.662365",
+    "name" : "Gävle Tranmur"
+	},
+	{
+	"location" : "7419568",
+	"x" : "17.247211",
+	"y" : "60.675238",
+    "name" : "Gävle Nyvall"
+	},
+	{
+	"location" : "7419307",
+	"x" : "17.229406",
+	"y" : "60.702985",
+    "name" : "Norrlandet Klasro"
+	},
+	{
+	"location" : "7419557",
+	"x" : "17.244964",
+	"y" : "60.686392",
+    "name" : "Gävle Kastet"
+	},
+	{
+	"location" : "7419416",
+	"x" : "17.128538",
+	"y" : "60.72179",
+    "name" : "Åbyggeby Bjuräng Södra"
+	},
+	{
+	"location" : "7419178",
+	"x" : "17.170692",
+	"y" : "60.721996",
+    "name" : "Hille Arentvägen"
+	},
+	{
+	"location" : "7419445",
+	"x" : "17.049719",
+	"y" : "60.668959",
+    "name" : "Åsbyggeby Soltorp"
+	},
+	{
+	"location" : "7419167",
+	"x" : "17.054274",
+	"y" : "60.659043",
+    "name" : "Valbo Åsvägen"
+	},
+	{
+	"location" : "7419347",
+	"x" : "17.233847",
+	"y" : "60.704015",
+    "name" : "Norrlandet Lyckan"
+	},
+	{
+	"location" : "7419558",
+	"x" : "17.250437",
+	"y" : "60.685974",
+    "name" : "Gävle Kastets såg"
+	},
+	{
+	"location" : "7419566",
+	"x" : "17.253702",
+	"y" : "60.673103",
+    "name" : "Gävle Norelund"
+	},
+	{
+	"location" : "7419185",
+	"x" : "17.127212",
+	"y" : "60.725214",
+    "name" : "Åbyggeby Bjurängsvägen"
+	},
+	{
+	"location" : "7419559",
+	"x" : "17.255231",
+	"y" : "60.682691",
+    "name" : "Gävle Kastsjö"
+	},
+	{
+	"location" : "7419270",
+	"x" : "17.170505",
+	"y" : "60.726217",
+    "name" : "Hille Milboskolan"
+	},
+	{
+	"location" : "7419565",
+	"x" : "17.25734",
+	"y" : "60.672615",
+    "name" : "Gävle Lillhagen"
+	},
+	{
+	"location" : "7419514",
+	"x" : "17.042066",
+	"y" : "60.669748",
+    "name" : "Åsbyggeby Vattentornet"
+	},
+	{
+	"location" : "7419124",
+	"x" : "17.048479",
+	"y" : "60.655776",
+    "name" : "Valbo Guldsmeden"
+	},
+	{
+	"location" : "7419213",
+	"x" : "17.239435",
+	"y" : "60.706109",
+    "name" : "Norrlandet Engeltofta"
+	},
+	{
+	"location" : "7419155",
+	"x" : "17.260407",
+	"y" : "60.675723",
+    "name" : "Gävle Lillhagsskolan"
+	},
+	{
+	"location" : "7418585",
+	"x" : "17.126986",
+	"y" : "60.728627",
+    "name" : "Åbyggeby"
+	},
+	{
+	"location" : "7419200",
+	"x" : "17.171531",
+	"y" : "60.728809",
+    "name" : "Hille Bygränsvägen"
+	},
+	{
+	"location" : "7419573",
+	"x" : "17.263208",
+	"y" : "60.67291",
+    "name" : "Gävle Storhagen"
+	},
+	{
+	"location" : "7419387",
+	"x" : "17.121864",
+	"y" : "60.728857",
+    "name" : "Åbyggeby Nygårdsbacken"
+	},
+	{
+	"location" : "7418586",
+	"x" : "17.124447",
+	"y" : "60.72928",
+    "name" : "Åbyggeby skola"
+	},
+	{
+	"location" : "7419324",
+	"x" : "17.036897",
+	"y" : "60.668539",
+    "name" : "Åsbyggeby Kvarnåkersvägen"
+	},
+	{
+	"location" : "7419175",
+	"x" : "17.243697",
+	"y" : "60.707231",
+    "name" : "Norrlandet Aludden"
+	},
+	{
+	"location" : "7419139",
+	"x" : "17.044361",
+	"y" : "60.653301",
+    "name" : "Valbo Myråsen"
+	},
+	{
+	"location" : "7419442",
+	"x" : "17.111934",
+	"y" : "60.728056",
+    "name" : "Åbyggeby Solhem"
+	},
+	{
+	"location" : "7419471",
+	"x" : "17.114704",
+	"y" : "60.728568",
+    "name" : "Åbyggeby Sågbacken"
+	},
+	{
+	"location" : "7419556",
+	"x" : "17.26498",
+	"y" : "60.679713",
+    "name" : "Gävle Karskär"
+	},
+	{
+	"location" : "7419364",
+	"x" : "17.127804",
+	"y" : "60.730683",
+    "name" : "Åbyggeby Milbostigen"
+	},
+	{
+	"location" : "7419199",
+	"x" : "17.109014",
+	"y" : "60.728354",
+    "name" : "Åbyggeby Bussplan"
+	},
+	{
+	"location" : "7419272",
+	"x" : "17.174363",
+	"y" : "60.730755",
+    "name" : "Hille Hillevallsvägen"
+	},
+	{
+	"location" : "7419551",
+	"x" : "17.266341",
+	"y" : "60.673415",
+    "name" : "Gävle Graneberg"
+	},
+	{
+	"location" : "7419547",
+	"x" : "17.266845",
+	"y" : "60.676461",
+    "name" : "Gävle Depkens väg"
+	},
+	{
+	"location" : "7419156",
+	"x" : "17.117243",
+	"y" : "60.619934",
+    "name" : "Sälgsjön"
+	},
+	{
+	"location" : "7419477",
+	"x" : "17.106826",
+	"y" : "60.728645",
+    "name" : "Åbyggeby Södra"
+	},
+	{
+	"location" : "7419269",
+	"x" : "17.183886",
+	"y" : "60.730568",
+    "name" : "Hille vägskäl"
+	},
+	{
+	"location" : "7435460",
+	"x" : "17.170397",
+	"y" : "60.732321",
+    "name" : "Hille Västerbacken"
+	},
+	{
+	"location" : "7419370",
+	"x" : "17.176619",
+	"y" : "60.732078",
+    "name" : "Hille Församlingsgården"
+	},
+	{
+	"location" : "7419183",
+	"x" : "17.123473",
+	"y" : "60.732342",
+    "name" : "Åbyggeby Bergsstig"
+	},
+	{
+	"location" : "7419350",
+	"x" : "17.257437",
+	"y" : "60.646314",
+    "name" : "Långbro"
+	},
+	{
+	"location" : "7419509",
+	"x" : "17.120394",
+	"y" : "60.73327",
+    "name" : "Åbyggeby Utvandrarvägen"
+	},
+	{
+	"location" : "7419165",
+	"x" : "17.037492",
+	"y" : "60.650582",
+    "name" : "Valbo Åby"
+	},
+	{
+	"location" : "7419223",
+	"x" : "17.027635",
+	"y" : "60.665482",
+    "name" : "Finntä"
+	},
+	{
+	"location" : "7419490",
+	"x" : "17.250457",
+	"y" : "60.710928",
+    "name" : "Norrlandet Torp"
+	},
+	{
+	"location" : "7419336",
+	"x" : "17.118419",
+	"y" : "60.734276",
+    "name" : "Åbyggeby Lingvallsvägen"
+	},
+	{
+	"location" : "7419146",
+	"x" : "17.117981",
+	"y" : "60.615619",
+    "name" : "Skarpnäsudden"
+	},
+	{
+	"location" : "7419271",
+	"x" : "17.180765",
+	"y" : "60.734729",
+    "name" : "Hille kyrka"
+	},
+	{
+	"location" : "7419150",
+	"x" : "17.033454",
+	"y" : "60.65017",
+    "name" : "Valbo Smäckvägen"
+	},
+	{
+	"location" : "7419352",
+	"x" : "17.023686",
+	"y" : "60.662646",
+    "name" : "Lund Långtä"
+	},
+	{
+	"location" : "7419385",
+	"x" : "17.253125",
+	"y" : "60.713233",
+    "name" : "Norrlandet Nyborg"
+	},
+	{
+	"location" : "7419379",
+	"x" : "17.117037",
+	"y" : "60.736354",
+    "name" : "Åbyggeby Norra"
+	},
+	{
+	"location" : "7419248",
+	"x" : "17.265619",
+	"y" : "60.645327",
+    "name" : "Grinduga väg 76"
+	},
+	{
+	"location" : "7419395",
+	"x" : "17.254464",
+	"y" : "60.714475",
+    "name" : "Norrlandet Persborg"
+	},
+	{
+	"location" : "7418508",
+	"x" : "17.020571",
+	"y" : "60.662495",
+    "name" : "Lund"
+	},
+	{
+	"location" : "7419149",
+	"x" : "17.028289",
+	"y" : "60.648961",
+    "name" : "Valbo Smäckstigen"
+	},
+	{
+	"location" : "7419246",
+	"x" : "17.256575",
+	"y" : "60.716607",
+    "name" : "Norrlandet Granvik"
+	},
+	{
+	"location" : "7419696",
+	"x" : "17.12042",
+	"y" : "60.608235",
+    "name" : "Sälgsjön Asfaltverket"
+	},
+	{
+	"location" : "7419141",
+	"x" : "17.021493",
+	"y" : "60.648125",
+    "name" : "Valbo Nybo"
+	},
+	{
+	"location" : "7419344",
+	"x" : "17.00974",
+	"y" : "60.661425",
+    "name" : "Lund Lundbyvägen"
+	},
+	{
+	"location" : "7419345",
+	"x" : "17.00949",
+	"y" : "60.659633",
+    "name" : "Lund Lundgrensväg"
+	},
+	{
+	"location" : "7419255",
+	"x" : "17.261494",
+	"y" : "60.720054",
+    "name" : "Norrlandet Gröndal"
+	},
+	{
+	"location" : "7419346",
+	"x" : "17.007349",
+	"y" : "60.656151",
+    "name" : "Lund Lundkroken"
+	},
+	{
+	"location" : "7419153",
+	"x" : "17.01374",
+	"y" : "60.646131",
+    "name" : "Valbo Stenhuggarvägen"
+	},
+	{
+	"location" : "7419697",
+	"x" : "17.006385",
+	"y" : "60.654814",
+    "name" : "Lund Lundvägen"
+	},
+	{
+	"location" : "7419427",
+	"x" : "17.265092",
+	"y" : "60.722618",
+    "name" : "Gröndalstäkten"
+	},
+	{
+	"location" : "7419538",
+	"x" : "17.002842",
+	"y" : "60.65296",
+    "name" : "Lund Östanbäck"
+	},
+	{
+	"location" : "7424930",
+	"x" : "17.008895",
+	"y" : "60.643661",
+    "name" : "Valbo centrum"
+	},
+	{
+	"location" : "7419428",
+	"x" : "17.268288",
+	"y" : "60.724378",
+    "name" : "Norrlandet Sjöviksvägen"
+	},
+	{
+	"location" : "7450862",
+	"x" : "17.007998",
+	"y" : "60.644118",
+    "name" : "Valbo Hälsocentral"
+	},
+	{
+	"location" : "7419698",
+	"x" : "17.000575",
+	"y" : "60.651006",
+    "name" : "Valbo Skiljebro"
+	},
+	{
+	"location" : "7419138",
+	"x" : "17.004988",
+	"y" : "60.641811",
+    "name" : "Valbo Markheden"
+	},
+	{
+	"location" : "7419444",
+	"x" : "17.272029",
+	"y" : "60.726043",
+    "name" : "Norrlandet Solliden"
+	},
+	{
+	"location" : "7419693",
+	"x" : "17.000931",
+	"y" : "60.645797",
+    "name" : "Valbo Ludvigsbergsskolan"
+	},
+	{
+	"location" : "7419532",
+	"x" : "16.996877",
+	"y" : "60.649872",
+    "name" : "Valbo Åkertä"
+	},
+	{
+	"location" : "7418580",
+	"x" : "17.005084",
+	"y" : "60.639477",
+    "name" : "Valbo Sofiedalskolan"
+	},
+	{
+	"location" : "7419294",
+	"x" : "17.187828",
+	"y" : "60.754044",
+    "name" : "Björke Julsjön"
+	},
+	{
+	"location" : "7419202",
+	"x" : "16.992983",
+	"y" : "60.648381",
+    "name" : "Valbo Bäck"
+	},
+	{
+	"location" : "7419179",
+	"x" : "17.277427",
+	"y" : "60.727869",
+    "name" : "Norrlandet Arla"
+	},
+	{
+	"location" : "7419169",
+	"x" : "16.99833",
+	"y" : "60.639716",
+    "name" : "Valbo Öby"
+	},
+	{
+	"location" : "7410568",
+	"x" : "17.314287",
+	"y" : "60.650084",
+    "name" : "Furuvik Lövlundsvägen"
+	},
+	{
+	"location" : "7419159",
+	"x" : "16.99462",
+	"y" : "60.638224",
+    "name" : "Valbo Trollsveden"
+	},
+	{
+	"location" : "7419275",
+	"x" : "17.283009",
+	"y" : "60.729692",
+    "name" : "Engesberg Huseliiharen"
+	},
+	{
+	"location" : "7419302",
+	"x" : "17.188391",
+	"y" : "60.758616",
+    "name" : "Björke Jättendalarna"
+	},
+	{
+	"location" : "7419157",
+	"x" : "16.991073",
+	"y" : "60.636191",
+    "name" : "Valbo Tallåsen"
+	},
+	{
+	"location" : "7419214",
+	"x" : "17.287668",
+	"y" : "60.731347",
+    "name" : "Engesberg"
+	},
+	{
+	"location" : "7419446",
+	"x" : "16.987057",
+	"y" : "60.636316",
+    "name" : "Valbo Spikåsvägen"
+	},
+	{
+	"location" : "7400273",
+	"x" : "16.98841",
+	"y" : "60.633342",
+    "name" : "Valbo Ikea"
+	}
+	]
+}
