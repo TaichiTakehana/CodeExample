@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="se">
+
+	<head>
+		<link rel="stylesheet" type="text/css" href="mycss.css">
+		<style>table,th,td{border: 0px black;} table{width: 100%; } a:link {color:steelblue;}</style>
+	</head>
+
+<body>
+
+	<script src="myScript.js"></script>
+
+<div id="main">
+
+	<div id="logo">
+		<img src="logo.png">
+	</div>
+	
+		<h1>Lorem Ipsum</h1>
+		
+			<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna
+			aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip
+			ex ea commodo consequat. </p>
+		
+		<h3>Lorem Ipsum</h3>
+		
+			<p>Vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum
+			zzril delenit augue duis dolore te feugait nulla facilisi.</p>
+		
+		<h4>V&auml;lj album och mediatyp:</h4>
+		
+	<div id="leftcolumn">
+		<form action="/action_page.php" name="formular" onsubmit="return kollaFalt()">
+		
+			<table style="width: 615px; background-color: white; border:2px solid steelblue; font-family:"Times New Roman", Times, serif;">
+				<tbody>
+					<tr style="height: 18px;">
+						<td style="width: 270px; height: 18px;">*Name:</td>
+						<td style="width: 203.533px; height: 18px;" colspan="2"><input type="text" name="namn" style="background-color: lightblue;"><br></td>
+					</tr>
+					<tr style="height: 18px;">
+						<td style="width: 197.467px; height: 18px;">*Efternamn:</td>
+						<td style="width: 203.533px; height: 18px;"colspan="2"><input type="text" name="efternamn" style="background-color: lightblue;"></td>
+					</tr>
+					<tr style="height: 18px;">
+						<td style="width: 197.467px; height: 18px;">*Adress:</td>
+						<td style="width: 203.533px; height: 18px;"colspan="2"><input type="text" name="adress" style="background-color: lightblue;"></td>
+					</tr>
+					<tr style="height: 18px;">
+						<td style="width: 197.467px; height: 18px;">*E-post:</td>
+						<td style="width: 203.533px; height: 18px;"colspan="2"><input type="text" name="epost"  style="background-color: lightblue;"></td>
+					</tr>
+					<tr style="height: 18px;">
+						<td style="width: 197.467px; height: 18px;">&Aring;lder:</td>
+						<td style="width: 203.533px; height: 18px;"colspan="2"><select size="1" style="width: 70px;">
+							<option>20</option>
+							<option>21</option>
+							<option>22</option></select>
+						</td>
+					</tr>
+					<tr style="height: 18px;">
+						<td style="width: 197.467px; height: 50px;">&Ouml;vrigt:</td>
+						<td style="width: 203.533px; height: 50px;"colspan="2">
+							<textarea style="width: 197.467px; height: 70px; background-color: lightblue;"></textarea>
+						</td>
+					</tr>
+					<tr style="height: 18px;">
+						<td style="width: 197.467px; height: 30px;"colspan="3"></td>
+					</tr>
+					<tr style="height: 18px;">
+						<td style="width: 197.467px; height: 18px;" colspan="3">V&auml;lj:</td>
+					</tr>
+					<tr style="height: 18px;">
+						<td style="width: 197.467px; height: 30px;"colspan="3"></td>
+					</tr>
+					<tr style="height: 18px;">
+						<td style="width: 197.467px; height: 18px; border-bottom: 2px solid steelblue; padding-bottom:47px" rowspan="3";>Sonic Youth</td>
+						<td style="width: 203.533px; height: 18px;">
+							<input type="checkbox" name="Goo" value="Sonic Youth: Goo |149" onclick="changeContent(this,'valda_skivor','one','price');">Goo<td align="right">149 SEK</td></td>
+							</input>
+					</tr>
+					<tr style="height: 18px;">
+						<td style="width: 203.533px; height: 18px;">
+							<input type="checkbox" name="Sister" value="Sonic Youth: Sister |99" onclick="changeContent(this,'valda_skivor','one','price');">Sister<td align="right">99 SEK</td></td>
+					</tr>
+					<tr style="height: 18px;">
+						<td style="width: 203.533px; height: 18px;">
+							<input type="checkbox" name="Daydream Nation" value="Sonic Youth: Daydream Nation |179" onclick="changeContent(this,'valda_skivor','one','price');">Daydream Nation<td align="right">179 SEK</td></td>
+					</tr>
+					<tr style="height: 18px;">
+						<td style="width: 197.467px; height: 30px;"colspan="3"></td>
+					</tr>
+					<tr style="height: 18px;">
+						<td style="width: 197.467px; height: 18px; border-bottom: 2px solid steelblue; padding-bottom:72px" rowspan="4">Pixies</td>
+						<td style="width: 5px; height: 18px;">
+							<input type="checkbox" name="Bossanova" value="Pixies: Bossanova |99" onclick="changeContent(this,'valda_skivor','one','price');">Bossanova<td align="right">99 SEK</td></td>
+					</tr>
+					<tr style="height: 18px;">
+						<td style="width: 203.533px; height: 18px;">
+							<input type="checkbox" name="Trompe le Monde" value="Pixies: Trompe le Monde |119" onclick="changeContent(this,'valda_skivor','one','price');">Trompe le Monde<td align="right">119 SEK</td></td>
+					</tr>
+					<tr style="height: 18px;">
+						<td style="width: 203.533px; height: 18px;"colspan="2">
+							<input type="checkbox" name="Surfer Rosa[kan ej best&auml;llas;]" id="mycheck"value="Pixies: Surfer Rosa[kan ej best&auml;llas;] |0" onclick="showAlert(this);">Surfer Rosa[kan ej best&auml;llas]</td>
+					</tr>
+					<tr style="height: 18px;">
+						<td style="width: 203.533px; height: 18px;">
+							<input type="checkbox" name="Doolittle" value="Pixies: Doolittle |99" onclick="changeContent(this,'valda_skivor','one','price');">Doolittle<td align="right">99 SEK</td></td>
+					</tr>
+					<tr style="height: 18px;">
+						<td style="width: 197.467px; height: 30px;"colspan="3"></td>
+					</tr>
+					<tr style="height: 18px;">
+						<td style="width: 197.467px; height: 18px; border-bottom: 2px solid steelblue; padding-bottom:89px" rowspan="5">Nick Cave and the Bad seeds</td>
+						<td style="width: 203.533px; height: 18px;">
+							<input type="checkbox" name="Tender Pray" value="Nick Cave and the Bad seeds: Tender Pray |119" onclick="changeContent(this,'valda_skivor','one','price');">Tender Pray<td align="right">119 SEK</td></td>
+					</tr>
+					<tr style="height: 18px;">
+						<td style="width: 203.533px; height: 18px;">
+							<input type="checkbox" name="Good Son" value="Nick Cave and the Bad seeds: Good Son |119" onclick="changeContent(this,'valda_skivor','one','price');">Good Son<td align="right">119 SEK</td></td>
+					</tr>
+					<tr style="height: 18px;">
+						<td style="width: 203.533px; height: 18px;"colspan="2">
+							<input type="checkbox" name="Let Love In[kan ej best&auml;llas]" id="mychecktwo"value="Nick Cave and the Bad seeds: Let Love In[kan ej best&auml;llas] |0" onclick="showAlert(this);">Let Love In[kan ej best&auml;llas]</td>
+					</tr>
+					<tr style="height: 18px;">
+						<td style="width: 203.533px; height: 18px;">
+							<input type="checkbox" name="Dig,Lazarus,Dig!" value="Nick Cave and the Bad seeds: Dig,Lazarus,Dig! |149" onclick="changeContent(this,'valda_skivor','one','price');">Dig,Lazarus,Dig!<td align="right">149 SEK</td></td>
+					</tr>
+					<tr style="height: 18px;">
+						<td style="width: 203.533px; height: 18px;">
+							<input type="checkbox" name="Push the Sky Away" value="Nick Cave and the Bad seeds: Push the Sky Away |179" onclick="changeContent(this,'valda_skivor','one','price');">Push the Sky Away<td align="right">179 SEK</td></td>
+					</tr>
+					<tr style="height: 18px;">
+						<td style="width: 197.467px; height: 30px;"colspan="3"></td>
+					</tr>
+					<tr style="height: 18px;">
+						<td style="width: 197.467px; height: 18px;">Vlj mediatyp:</td>
+						<td style="width: 203.533px; height: 18px;"colspan="3"align="right">
+							<input type="radio" name="mediatyp">Vinyl<input type="radio" name="mediatyp">CD<input type="radio" name="mediatyp">MP3</td>
+					</tr>
+					<tr style="height: 18px;">
+						<td style="width: 197.467px; height: 30px;"colspan="3"></td>
+					</tr>
+					<tr style="height: 18px;">
+						<td style="width: 197.467px; height: 18px;" colspan="3"align="right"><input type="submit" value="Skicka best&auml;llningen"
+					style="background-color: lightblue; margin:11px"></td>
+					</tr>
+				</tbody>
+			</table>
+		</form>
+		
+		<div id="disclaimer"><strong>Disclaimer</strong> <br>Lorem ipsum dolor sit amet,
+		consectetuer adipiscing laoreet dolore magna aliquam.</div>
+			
+	</div>
+	
+	<div id="rightcolumn">
+	
+		<div id="links">
+			<a href="https://www.w3schools.com/html/" style="text-decoration: none;">Home</a><br>
+			<a href="https://www.w3schools.com/html/" style="text-decoration: none;">Start</a><br>
+			<a href="https://www.w3schools.com/html/" style="text-decoration: none;">Catalogue</a>
+		</div>
+		
+		<div id="valda_skivor">Du har valt f&ouml;rjande skivor:</div>
+		
+		<div id="price">Pris:0 SEK </div>
+		
+	</div>
+</div>
+
+</body>
+</html> 

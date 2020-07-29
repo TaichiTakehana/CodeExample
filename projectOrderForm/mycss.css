@@ -1,0 +1,78 @@
+body {
+	background-color: rgb(226, 237, 255);
+    	font-family: verdana, arial, sans-serif;
+	font-size: 12pt;
+}
+
+#main {
+	border-top:2px solid steelblue;
+	border-left:2px solid steelblue;
+	border-right:2px solid steelblue;
+	border-bottom:0px solid steelblue;
+ 	border-style: dashed;
+ 	width:913px;
+ 	height:1500px;
+ 	position:static;
+	margin-left:9px;
+ 	font-family:"Courier New", serif;
+}
+
+#logo {
+	display:block;
+ 	margin-left:auto;
+ 	margin-right:auto;
+ 	padding-left:6px;
+}
+
+#leftcolumn {border:0px;
+ 	width:615px;
+ 	height:690px;
+ 	margin-left:9px;
+	margin-top:5px;
+ 	float:left;
+	font-family:"Times New Roman", Times, serif;
+}
+
+#disclaimer {
+	border:2px steelblue;
+ 	border-style:dashed;
+ 	margin-top:15px;
+ 	background-color:white;
+	color:steelblue;
+	padding:10px;
+}
+
+#rightcolumn {
+	border:0px;
+ 	width:270px;
+ 	height:890px;
+ 	float:right;
+	margin-right:9px;
+	margin-top:15px;
+ 	text-align:right;
+}
+
+#links {
+	border:2px solid steelblue;
+ 	padding-right:6px;
+}
+
+.one {
+	border:1px solid steelblue;
+}
+
+#valda_skivor {
+	border:2px solid steelblue;
+ 	padding-right:6px;
+ 	margin-top:10px;
+	font-family:"Times New Roman", Times, serif;
+	padding:10px;
+}
+
+#price {
+	border:2px solid steelblue;
+ 	padding-right:6px;
+	background-color: lightblue;
+ 	margin-top:10px;
+	padding:10px;
+}
