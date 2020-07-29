@@ -1,0 +1,16 @@
+html, body, #mapDiv {
+    padding: 0px;
+    margin: 0px;
+    height: 100%;
+}
+#infoDiv{
+    top: 0px;
+    right: 0px;
+    position: absolute;
+    z-index: 2;
+    opacity: 0.9;
+    background-color: whitesmoke;
+    padding: 5px;
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size: 10px;
+  }    
