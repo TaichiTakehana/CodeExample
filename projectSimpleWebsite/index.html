@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Sidans titel som visas högst upp i webläsaren</title>
+	<style type="text/css">
+	<!--
+body {
+		background-color: #CCCCFF;
+		color: black;
+		font-family:Arial
+		font-size:60px;
+} 
+h1 { 
+		color:red;
+		font-family:times
+}
+h2 { 
+		color:black;
+		font-family:times
+}
+#theWordFirst{color:#668800}
+#theWordFirst2{color:#11BB77}
+#theWordFirst3{color:#33FF22}
+	-->
+	</style>
+	<script>
+	function setDate(){
+	document.getElementById("p1").innerHTML += Date(); }
+	
+	function getInfo(){
+	document.getElementById("pinfo").innerHTML += navigator.userAgent;}	
+	
+	function getText(){
+    document.getElementById("pbutton").innerHTML = document.getElementById("text1").value;}	
+	
+	function boldText(x) { x.style.fontWeight='bold'; } 
+	
+	function normalText(x) { x.style.fontWeight='normal'; }
+	
+	function bigImg(x) {
+    x.style.height = "160px";
+    x.style.width = "220px";}
+	
+	function normalImg(x) {
+    x.style.height = "80px";
+    x.style.width = "110px";}
+	
+	function getInput(){
+    var x = document.getElementById("text1").value;
+    document.getElementById("pinput").innerHTML = x;}
+	</script>
+</head>
+<body>
+	<h1>En stor rubrik</h1>
+	
+	<h2><em>En lite mindre rubrik</em></h2>
+	<p style="font-size:20px;" id="p1">Dagens datum är:<script>setDate()</script></p></p>
+	
+	<p id="pinfo">Klientinformation:<script>getInfo()</script></p>
+	
+	<p style="font-size:20px;"><b>Här</b> kommer <u>ett</u> till <em>stycke</em> med text</p>
+	
+	<input id="text1" type="text" oninput="getInput()">
+	
+	<button type="button" onClick="getText()"> Tryck här </button>
+	
+	<p id="pinput"></p>
+	
+	
+	<p style="font-size:20px;" id=pbutton>Här kommer knappresultatet att komma...</p>
+	
+	<p>
+	    <ul>
+		   <li>Detta är <span id="theWordFirst" onmouseenter="boldText(this)" 
+		   onmouseleave="normalText(this)">första</span> punkten i listan</li> <!-- Ändring 1 -->
+		   
+	       <li>Detta är <span id="theWordFirst" onmouseenter="boldText(this)" 
+		   onmouseleave="normalText(this)">andra</span> punkten i listan</li> <!-- Ändring 2 -->
+	    </ul>
+	</p>
+	
+	<p>
+	    <ol>
+	       <li>Detta är första numererade punkten</li>
+	       <li>Detta är andra numererade punkten</li>
+		</ol>
+	</p>
+	
+	<p><span id="theWordFirst2" onmouseenter="boldText(this)" 
+		   onmouseleave="normalText(this)">Här</span> har jag lagt in en bild</p> <!-- Ändring 3 -->
+  
+	<img onmouseenter="bigImg(this)" onmouseleave="normalImg(this)"
+	src="pics/frog-927764_960_720.jpg"width="110px" height="80px">
+
+	<table width="80%" border="1">
+		<tr>
+			<td><span id="theWordFirst3" onmouseenter="boldText(this)" 
+		   onmouseleave="normalText(this)">Cell 1</span> i första raden</td>
+			<td><span id="theWordFirst3" onmouseenter="boldText(this)" 
+		   onmouseleave="normalText(this)">Cell 2</span> i första raden</td>
+		</tr>
+		<tr>
+			<td><span id="theWordFirst3" onmouseenter="boldText(this)" 
+		   onmouseleave="normalText(this)">Cell 1</span> i andra raden</td>
+			<td><a href="index2.html">Allt om HTML</a></td>
+		</tr>
+	</table>
+</body> 
+</html>

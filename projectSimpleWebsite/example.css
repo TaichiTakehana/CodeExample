@@ -1,0 +1,107 @@
+
+body {
+	background-color: #ff0000;
+    font-family: verdana, arial, sans-serif;
+	font-size: 12pt;
+}
+
+blockquote {
+	font-style: italic;
+	font-family: verdana, sans-serif;
+	color: maroon;
+}
+
+div {
+	margin: 10px;
+}
+
+h1{
+	color:maroon;
+	font-family:verdana, sans-serif;
+	font-size:20pt;
+}
+
+a:link    { color: blue; }
+a:active  { color: #282; }
+a:visited { color: maroon; }
+a:hover   { color: #282; text-decoration: underline;}
+
+p.news{
+	color:#282;
+}
+
+.links{
+	position:relative;
+	width:800px;
+	top:-1020px;
+	padding:10px;
+	margin:0px auto;
+}
+
+.code{
+	background-color:green;
+	color:white;
+	width:200px;
+	font-family: "Courier New", serif;
+	font-size:10pt;
+}
+
+#main{
+	position:relative;
+	top:50px;
+	background-color:#eef;
+	width:800px;
+	min-height:1000px;
+	padding:10px;
+	margin:0px auto;
+}
+
+#header{
+	border:1px dotted black;
+	background-color: #999;
+}
+
+#header h1{
+	color:#fff;
+	font-size:18px;
+}
+
+#logo{
+	position:relative;
+	left: 20px;
+	width:200px;
+	height:30px;
+}
+
+#disc{
+	position:relative;
+	left: 520px;
+	top:-45px;
+	width:200px;
+	height:30px;
+	font-family: "Courier New", serif;
+	font-size:8pt;
+}
+
+.content {
+	font-family: "Courier New", serif;
+}
+
+.content .nyhet{
+	font-family: verdana, sans-serif;
+	color:green;
+}
+
+.content .nyhet h1{
+	font-size: 14pt;
+}
+
+.content .nyhet a:hover {
+	text-decoration: underline;
+	font-weight: bold;
+	color: grey;
+}
+
+
+
+
